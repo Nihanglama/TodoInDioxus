@@ -1,0 +1,24 @@
+.todo-app{
+    margin: 0 auto;
+    text-align: center;
+    border-style: dotted;
+    width: 500px;
+    background-color: bisque;
+}
+.remove{
+    height: 25px;
+    width: 60px;
+    font-size: small;
+}
+li{
+    background-color: aquamarine;
+    border-radius: 6px;
+    padding: 10px 15px 10px 15px;
+    text-align: left;
+    margin-top: 20px;
+}
+.view{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

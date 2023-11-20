@@ -1,0 +1,8 @@
+/Users/nihang/Desktop/dioxuss/target/debug/build/futures-task-fbbce46aca7ae746/build_script_build-fbbce46aca7ae746: /Users/nihang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/build.rs /Users/nihang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/no_atomic_cas.rs
+
+/Users/nihang/Desktop/dioxuss/target/debug/build/futures-task-fbbce46aca7ae746/build_script_build-fbbce46aca7ae746.d: /Users/nihang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/build.rs /Users/nihang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/no_atomic_cas.rs
+
+/Users/nihang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/build.rs:
+/Users/nihang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/no_atomic_cas.rs:
+
+# env-dep:CARGO_PKG_NAME=futures-task
